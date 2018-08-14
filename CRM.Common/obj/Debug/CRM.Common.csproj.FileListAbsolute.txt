@@ -1,0 +1,5 @@
+E:\学习文件\Git\CRM\CRM.Common\bin\Debug\CRM.Common.dll
+E:\学习文件\Git\CRM\CRM.Common\bin\Debug\CRM.Common.pdb
+E:\学习文件\Git\CRM\CRM.Common\obj\Debug\CRM.Common.dll
+E:\学习文件\Git\CRM\CRM.Common\obj\Debug\CRM.Common.pdb
+E:\学习文件\Git\CRM\CRM.Common\obj\Debug\CRM.Common.csprojResolveAssemblyReference.cache

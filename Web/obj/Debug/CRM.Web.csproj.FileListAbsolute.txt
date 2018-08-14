@@ -1,0 +1,16 @@
+E:\学习文件\Git\CRM\Web\bin\Web.dll.config
+E:\学习文件\Git\CRM\Web\bin\Web.dll
+E:\学习文件\Git\CRM\Web\bin\Web.pdb
+E:\学习文件\Git\CRM\Web\bin\CRM.BLL.dll
+E:\学习文件\Git\CRM\Web\bin\CRM.Common.dll
+E:\学习文件\Git\CRM\Web\bin\CRM.Model.dll
+E:\学习文件\Git\CRM\Web\bin\CRM.DLL.dll
+E:\学习文件\Git\CRM\Web\bin\CRM.DBUtility.dll
+E:\学习文件\Git\CRM\Web\bin\CRM.BLL.pdb
+E:\学习文件\Git\CRM\Web\bin\CRM.Common.pdb
+E:\学习文件\Git\CRM\Web\bin\CRM.Model.pdb
+E:\学习文件\Git\CRM\Web\bin\CRM.DLL.pdb
+E:\学习文件\Git\CRM\Web\bin\CRM.DBUtility.pdb
+E:\学习文件\Git\CRM\Web\obj\Debug\Web.dll
+E:\学习文件\Git\CRM\Web\obj\Debug\Web.pdb
+E:\学习文件\Git\CRM\Web\obj\Debug\CRM.Web.csprojResolveAssemblyReference.cache

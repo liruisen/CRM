@@ -1,0 +1,20 @@
+﻿.sp {
+    color: black;
+}
+
+/*div {
+    margin: 10px auto;
+}*/
+
+.wrong {
+    color: red;
+}
+
+.login-box {
+    margin: 2em;
+    padding: 2em;
+}
+
+    .login-box div {
+        padding: 0.5em;
+    }

@@ -1,0 +1,11 @@
+E:\学习文件\Git\CRM\CRM.DBUtility\bin\Debug\CRM.DBUtility.dll
+E:\学习文件\Git\CRM\CRM.DBUtility\bin\Debug\CRM.DBUtility.pdb
+E:\学习文件\Git\CRM\CRM.DBUtility\bin\Debug\CRM.Common.dll
+E:\学习文件\Git\CRM\CRM.DBUtility\bin\Debug\CRM.Common.pdb
+E:\学习文件\Git\CRM\CRM.DBUtility\obj\Debug\CRM.DBUtility.dll
+E:\学习文件\Git\CRM\CRM.DBUtility\obj\Debug\CRM.DBUtility.pdb
+E:\学习文件\Git\CRM\CRM.DBUtility\obj\Debug\CRM.DBUtility.csprojResolveAssemblyReference.cache
+E:\学习文件\Git\CRM\CRM.DBUtility\bin\Debug\CRM.Model.dll
+E:\学习文件\Git\CRM\CRM.DBUtility\bin\Debug\CRM.Model.pdb
+E:\学习文件\Git\CRM\CRM.DBUtility\obj\Debug\CRM.DBUtility.inertInToCustomer.resources
+E:\学习文件\Git\CRM\CRM.DBUtility\obj\Debug\CRM.DBUtility.csproj.GenerateResource.Cache

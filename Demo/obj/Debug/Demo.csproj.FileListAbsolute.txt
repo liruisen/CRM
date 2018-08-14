@@ -1,0 +1,6 @@
+E:\学习文件\Git\CRM\Demo\bin\Demo.dll.config
+E:\学习文件\Git\CRM\Demo\bin\Demo.dll
+E:\学习文件\Git\CRM\Demo\bin\Demo.pdb
+E:\学习文件\Git\CRM\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+E:\学习文件\Git\CRM\Demo\obj\Debug\Demo.dll
+E:\学习文件\Git\CRM\Demo\obj\Debug\Demo.pdb
